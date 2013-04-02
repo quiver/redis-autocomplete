@@ -5,13 +5,17 @@ http://en.wikipedia.org/wiki/Inverted_index
 
 ## import data
 
+  ```
   $ python init_data.py
+  ```
 
 ## suggest
 
+  ```
   $ python suggest.py wal
   i am the walrus
   winston's walk
   $ python suggest.py wal am
   i am the walrus
+  ```
 
